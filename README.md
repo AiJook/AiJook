@@ -73,16 +73,10 @@ I'm a **Software Engineer** passionate about building clean, scalable, and user-
 
 ## GitHub Stats & Streak
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AiJook&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiJook&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=AiJook&theme=tokyonight&hide_border=true"/>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AiJook/AiJook/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/AiJook/AiJook/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 ## Connect With Me

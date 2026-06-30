@@ -31,47 +31,47 @@
 
 ---
 
-## 🕹️ About Me
+## About Me
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V6YW80Y2Zia2R1Znd4bWN0cHZid3Zid3R5bXo1NmR6bXp5YnZiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMc7wO6be0SgG1WlB7/giphy.gif" align="right" width="150" hspace="20"/>
 
 I'm a **Software Engineer** passionate about building clean, scalable, and user-focused applications with a touch of modern magic.
 
-* 💻 Experienced in **Full-stack Development**
-* ⚙️ Backend development with **Go (Gin, GORM)** and **Node.js**
-* 📱 Cross-platform mobile development using **Flutter**
-* 🌐 Modern frontend with **React**, **Nuxt.Js**, and **TypeScript**
-* 🚀 Always learning new technologies and improving development workflows
+* Experienced in **Full-stack Development**
+* Backend development with **Go (Gin, GORM)** and **Node.js**
+* Cross-platform mobile development using **Flutter**
+* Modern frontend with **React**, **Nuxt.Js**, and **TypeScript**
+* Always learning new technologies and improving development workflows
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🛡️ Languages & Frameworks
+### Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=go,typescript,javascript,dart,python,java,php" />
 <br>
 <img src="https://skillicons.dev/icons?i=react,nuxt,nodejs,flutter,tailwind,bootstrap" />
 
-### 🗄️ Databases & Tools
+### Databases & Tools
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,docker,git,figma,postman" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description |
 | :--- | :--- |
-| 📊 **Longdo Map Stats** | Full-stack analytics dashboard built with Go, Nuxt.js, PostgreSQL, and ApexCharts |
-| 🌐 **Portfolio Website** | Modern portfolio built using React, TailwindCSS, and Framer Motion |
-| 📱 **Flutter Applications** | Cross-platform mobile applications with Firebase integration |
+| **Longdo Map Stats** | Full-stack analytics dashboard built with Go, Nuxt.js, PostgreSQL, and ApexCharts |
+| **Portfolio Website** | Modern portfolio built using React, TailwindCSS, and Framer Motion |
+| **Flutter Applications** | Cross-platform mobile applications with Firebase integration |
 
 ---
 
-## 📈 GitHub Stats & Streak
+## GitHub Stats & Streak
 
 <div align="center">
 
@@ -85,7 +85,7 @@ I'm a **Software Engineer** passionate about building clean, scalable, and user-
 </div>
 
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 

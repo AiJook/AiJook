@@ -36,7 +36,7 @@ I'm a **Software Engineer** passionate about building clean, scalable, and user-
 * 💻 Experienced in **Full-stack Development**
 * ⚙️ Backend development with **Go (Gin, GORM)** and **Node.js**
 * 📱 Cross-platform mobile development using **Flutter**
-* 🌐 Modern frontend with **React**, **Nuxt**, and **TypeScript**
+* 🌐 Modern frontend with **React**, **Nuxt.Js**, and **TypeScript**
 * 🚀 Always learning new technologies and improving development workflows
 
 ---
@@ -99,6 +99,6 @@ I'm a **Software Engineer** passionate about building clean, scalable, and user-
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms0N212M3VjZmt4Zndid3R5bXo1NmR6bXp5YnZiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oz8xAFtqo0LYIkIwU/giphy.gif" width="120"/>
 
-### 🎮 GAME OVER? No, just the beginning. Thanks for visiting!
+### Thanks for visiting!
 
 </div>

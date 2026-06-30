@@ -4,7 +4,7 @@
 
 ### Software Engineer • Full-stack Developer • Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=SOFTWARE+ENGINEER;BACKEND+DEVELOPER;FULL-STACK+DEVELOPER;AI+ENTHUSIAST" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=SOFTWARE+ENGINEER;BACKEND+DEVELOPER;FULL-STACK+DEVELOPER;Backend Developer" />
 
 <br>
 
@@ -36,7 +36,6 @@ I'm a **Software Engineer** passionate about building clean, scalable, and user-
 * ⚙️ Backend development with **Go (Gin, GORM)** and **Node.js**
 * 📱 Cross-platform mobile development using **Flutter**
 * 🌐 Modern frontend with **React**, **Nuxt**, and **TypeScript**
-* 🤖 Exploring **AI**, **LLMs**, and intelligent software solutions
 * 🚀 Always learning new technologies and improving development workflows
 
 ---

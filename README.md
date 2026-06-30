@@ -11,16 +11,20 @@
 
 > 👾 *Building scalable web applications, crafting modern user experiences, and exploring AI-powered solutions.*
 
-<p>
-  <a href="https://portfolio-sutthikanwithb.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=retroarch&logoColor=39FF14" alt="Portfolio"/>
-  </a>
-  <a href="mailto:SutthikanwithB@gmail.com">
-    <img src="https://img.shields.io/badge/Email-101010?style=for-the-badge&logo=gmail&logoColor=FF5555" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sutthikan-butnangkul">
-    <img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
-  </a>
+<p align="center">
+
+<a href="mailto:SutthikanwithB@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sutthikan-butnangkul">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-sutthikanwithb.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 </div>

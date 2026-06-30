@@ -71,9 +71,6 @@ I'm a **Software Engineer** passionate about building clean, scalable, and user-
 
 ---
 
-## GitHub Stats & Streak
-
-<img width="80%" src="https://streak-stats.demolab.com?user=AiJook&theme=tokyonight&hide_border=true" />
-### Thanks for visiting!
+<div align="center">Thank you for visitting!</div>
 
 

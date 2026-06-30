@@ -73,8 +73,7 @@ I'm a **Software Engineer** passionate about building clean, scalable, and user-
 
 ## GitHub Stats & Streak
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AiJook&theme=tokyo-night&hide_border=true"/>
-
+<img width="80%" src="https://streak-stats.demolab.com?user=AiJook&theme=tokyonight&hide_border=true" />
 ### Thanks for visiting!
 
 

@@ -73,30 +73,8 @@ I'm a **Software Engineer** passionate about building clean, scalable, and user-
 
 ## GitHub Stats & Streak
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AiJook/AiJook/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/AiJook/AiJook/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-## Connect With Me
-
-<div align="center">
-
-<a href="mailto:SutthikanwithB@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
-</a>
-<a href="https://www.linkedin.com/in/sutthikan-butnangkul">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-</a>
-<a href="https://portfolio-sutthikanwithb.vercel.app">
-  <img src="https://skillicons.dev/icons?i=vercel" width="40"/>
-</a>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms0N212M3VjZmt4Zndid3R5bXo1NmR6bXp5YnZiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oz8xAFtqo0LYIkIwU/giphy.gif" width="120"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AiJook&theme=tokyo-night&hide_border=true"/>
 
 ### Thanks for visiting!
 
-</div>
+
